@@ -10,6 +10,10 @@
 
 Erik Meyer [reset.css](https://meyerweb.com/eric/tools/css/reset/)--> resetten van alle opmaak
 
+## google fonts
+
+[lato fonts](https://fonts.google.com/?query=lato)
+
 ## Tips
 
 - box-sizing: border-box
