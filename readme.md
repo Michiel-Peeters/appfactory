@@ -4,11 +4,11 @@
 
 ## Icons
 
-[https://icomoon.io/](Icomoon.io) --> genereren van icons
+(https://icomoon.io/)[Icomoon.io] --> genereren van icons
 
 ## Reset
 
-Erik Meyer [https://meyerweb.com/eric/tools/css/reset/](reset.css) --> resetten van alle opmaak
+Erik Meyer (https://meyerweb.com/eric/tools/css/reset/)[reset.css]--> resetten van alle opmaak
 
 ## Tips
 
