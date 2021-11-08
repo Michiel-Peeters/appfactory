@@ -15,3 +15,7 @@ Erik Meyer [reset.css](https://meyerweb.com/eric/tools/css/reset/)--> resetten v
 - box-sizing: border-box
 - reset file als eerste inladen
 - altijd icoontjes testen (::before => content"\code" ++ font-family van de icons correct instellen)
+
+## Project
+
+!(Foto](/+assets/desing-appfactory.jpg)
