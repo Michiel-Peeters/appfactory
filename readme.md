@@ -18,4 +18,4 @@ Erik Meyer [reset.css](https://meyerweb.com/eric/tools/css/reset/)--> resetten v
 
 ## Project
 
-!(Foto](/+assets/desing-appfactory.jpg)
+![Foto](/+assets/desing-appfactory.jpg)
